@@ -108,3 +108,23 @@ footer {
     left: 0;
     color: var(--secondary-color);
 }
+
+.profile-pic {
+    /* 1. Dimensionamento */
+    width: 150px;       /* Largura fixa */
+    height: 150px;      /* Altura fixa */
+    
+    /* 2. Ajuste de proporção (Evita que a foto fique esticada) */
+    object-fit: cover;  
+    
+    /* 3. Estilo (Opcional: borda arredondada) */
+    border-radius: 50%; /* Deixa a foto redonda. Use 8px para cantos suaves. */
+    border: 3px solid #333; /* Uma borda fina para dar acabamento */
+}
+
+.foto-container {
+    /* 4. Posicionamento */
+    display: flex;
+    justify-content: flex-end; /* 'flex-end' para a direita, 'center' para o meio */
+    margin-bottom: 20px;
+}
