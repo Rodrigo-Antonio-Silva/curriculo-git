@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Análise de Promoções em RH",
+        "descricao": "Modelo de Machine Learning (Regressão Logística) para prever promoções, utilizando técnicas de oversampling para dados desbalanceados.",
+        "tecnologias": ["Python", "Scikit-learn", "Pandas"],
+        "link": "https://github.com/Prof-Rodrigo-Silva"
+    },
+    {
+        "titulo": "Tax Transformation & Automação",
+        "descricao": "Digitalização de processos fiscais na Vale S.A., com foco em redução de custos e aumento de eficiência através de Python e Power Query.",
+        "tecnologias": ["Python", "Power Query", "Excel"],
+        "link": "#"
+    },
+    {
+        "titulo": "Dashboards de KPIs Financeiros",
+        "descricao": "Desenvolvimento de visualizações estratégicas em Power BI para monitorização de indicadores de performance (KPIs).",
+        "tecnologias": ["Power BI", "DAX", "SQL"],
+        "link": "#"
+    }
+]
